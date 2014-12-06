@@ -1,6 +1,6 @@
-# Atom Shell Starter App
+# Atom Shell TypeScript Starter App
 
-atom-shell-starter is a base application that you can use to get started writing your own cross-platform (Win/Mac/Linux) Desktop apps via Atom Shell. This template is extracted from the Atom source code, cleaned up to be more generic, and to be a great starting point for a production app.
+atom-shell-typescript-starter is a base application that you can use to get started writing your own cross-platform (Win/Mac/Linux) Desktop apps via Atom Shell using TypeScript. This template is a fork of atom-shell-starter, which was extracted from the Atom source code, cleaned up to be more generic, and to be a great starting point for a production app.
 
 ### Getting Started
 
